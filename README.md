@@ -12,8 +12,6 @@
 Sprunki Mustard transforms music creation into an engaging gaming experience. Mix beats, craft melodies, and add effects to create your unique musical masterpieces. Perfect for both beginners and music enthusiasts, this game offers endless creative possibilities.
 
 ### 🏆 Quick Facts
-
-- **Rating**: 9.7/10
 - **Genre**: Music Creation / Rhythm Game
 - **Platform**: Web-based
 - **Age Rating**: All Ages
