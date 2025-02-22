@@ -9,7 +9,7 @@
 ![Sprunki Mustard](https://img.sprunky.world/Sprunki-Mustard.jpg)
 
 
-Sprunki Mustard transforms music creation into an engaging gaming experience. Mix beats, craft melodies, and add effects to create your unique musical masterpieces. Perfect for both beginners and music enthusiasts, this game offers endless creative possibilities.
+[Sprunki Mustard](https://www.sprunky.world/game/sprunki-mustard) transforms music creation into an engaging gaming experience. Mix beats, craft melodies, and add effects to create your unique musical masterpieces. Perfect for both beginners and music enthusiasts, this game offers endless creative possibilities.
 
 ### 🏆 Quick Facts
 - **Genre**: Music Creation / Rhythm Game
