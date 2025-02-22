@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Sprunky-world/sprunki-mustard)](https://github.com/Sprunky-world/sprunki-mustard/stargazers)
 
 ## 🎮 Game Overview
-[![Sprunki Mustard]](https://img.sprunky.world/Sprunki-Mustard.jpg)
+[![Sprunki Mustard](https://img.sprunky.world/Sprunki-Mustard.jpg)]
 Sprunki Mustard transforms music creation into an engaging gaming experience. Mix beats, craft melodies, and add effects to create your unique musical masterpieces. Perfect for both beginners and music enthusiasts, this game offers endless creative possibilities.
 
 ### 🏆 Quick Facts
